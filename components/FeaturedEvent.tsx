@@ -20,7 +20,7 @@ interface FeaturedEventProps {
 
 export default function FeaturedEvent({ event }: FeaturedEventProps) {
   return (
-    <section className="relative py-8 -mt-32 z-20">
+    <section className="relative py-8 -mt-20 z-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 40 }}
