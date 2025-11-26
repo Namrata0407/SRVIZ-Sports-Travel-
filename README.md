@@ -72,8 +72,8 @@ A modern, production-grade, fully responsive landing page for global sports-trav
 **1️⃣ Clone Repository**
 
 ```bash
-git clone https://github.com/yourusername/sports-travel-landing.git
-cd sports-travel-landing
+git clone [https://github.com/yourusername/sports-travel-landing.git](https://github.com/Namrata0407/SRVIZ-Sports-Travel-.git)
+cd SPVIZ-Sports-Travel
 ```
 
 **2️⃣ Install Dependencies**
